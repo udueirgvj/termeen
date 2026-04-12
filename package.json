@@ -1,0 +1,11 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@capacitor/cli": "latest",
+    "@capacitor/core": "latest",
+    "@capacitor/android": "latest"
+  }
+}
+
